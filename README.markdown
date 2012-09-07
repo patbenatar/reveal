@@ -1,4 +1,4 @@
-<h1>patbenatar's fork of [zurb/reveal](https://github.com/zurb/reveal)</h1>
+<h1>patbenatar's fork of zurb/reveal</h1>
 
 ### Adds two events:
 
